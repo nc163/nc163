@@ -13,6 +13,6 @@
 
 ## Twitter
 
-<a href="https://twitter.com/nc163">
+<a href="https://twitter.com/nc163" target="_blank">
 <img src="https://img.shields.io/twitter/follow/nc163?style=social">
 <a/>
