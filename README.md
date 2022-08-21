@@ -11,11 +11,16 @@
 
 <!-- https://github.com/progfay/shields-with-icon/blob/master/README.md -->
 
-## Twitter
+## SNS
 
 <p>
 <a href="https://twitter.com/nc163" target="_blank">
 <img src="https://img.shields.io/twitter/follow/nc163?style=social">
+</a>
+</p>
+<p>
+<a href="https://bookmeter.com/users/593986" target="_blank">
+読書メーター
 </a>
 </p>
 
