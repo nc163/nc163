@@ -26,4 +26,5 @@
 
 ## Webpage
 
-nc163: `ipfs://QmV1J1h4w5gpD27ydgAahCFwxdYx2xh8fsqaH3EY35CGUX/`
+nc163: `ipfs://QmPEgKBFn4ZYSsfS5ptQdnbqvbLEpFATVhzGCGZT8AcnMr/`
+public http gateway: `https://ipfs.io/ipfs/QmPEgKBFn4ZYSsfS5ptQdnbqvbLEpFATVhzGCGZT8AcnMr/`
