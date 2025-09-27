@@ -19,7 +19,6 @@
 <p>
 
   <a href="https://staging.bsky.app/profile/nc163.org" target="_blank"><img src="https://img.shields.io/badge/nc163.org-gray?label=bluesky&labelColor=blue"></a>
-  <a href="https://bookmeter.com/users/593986" target="_blank"><img src="https://img.shields.io/badge/ysn%F0%9F%90%B0-gray?label=%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC&labelColor=darkgreen"></a>
-
+  <a href="https://bookmeter.com/users/593986/bookcases/10650841" target="_blank"><img src="https://img.shields.io/badge/ysn%F0%9F%90%B0-gray?label=%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC&labelColor=darkgreen"></a>
 
 </p>
