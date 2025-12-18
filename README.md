@@ -19,8 +19,8 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 
-### SNS
-<p>
-  <a href="https://staging.bsky.app/profile/nc163.org" target="_blank"><img src="https://img.shields.io/badge/nc163.org-gray?label=bluesky&labelColor=blue"></a>
-  <a href="https://bookmeter.com/users/593986/bookcases/10650841" target="_blank"><img src="https://img.shields.io/badge/ysn🐱-gray?label=%E8%AA%AD%E6%9B%B8%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC&labelColor=darkgreen"></a>
-</p>
+---
+
+### リンク
+[![Bluesky](https://img.shields.io/badge/🦁-gray?logo=bluesky&label=Bluesky&labelColor=1185FE&logoColor=white)](https://staging.bsky.app/profile/nc163.org)
+[![読書メーター](https://img.shields.io/badge/🐱-gray?label=読書メーター&labelColor=darkgreen)](https://bookmeter.com/users/593986/bookcases/10650841)
